@@ -1,1 +1,1 @@
-https://ghxnew.github.io/newly/
+https://ghxnew.github.io/my-new-page/
