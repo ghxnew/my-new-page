@@ -188,7 +188,7 @@ section .title.enducation::before {
 section .title.about-me::before {
     content: url(../image/icon8.png)
 }
-
+.con embed{ display:block; margin:auto;}
 .project-detail .col-3-abs {
     margin-top: 50px;
 }
